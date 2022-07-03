@@ -1,2 +1,2 @@
 # DSA
-Leetcode Problems with links
+Leetcode Solutions with Problem's with links
