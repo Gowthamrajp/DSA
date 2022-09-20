@@ -22,3 +22,6 @@ class Solution {
         return res;
     }
 }
+
+time - O(N)
+space - O(N)
